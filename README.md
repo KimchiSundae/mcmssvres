@@ -1,2 +1,2 @@
-# mcmssvres
-A resourcepack for a Minecraft server named MS server.
+# mcmssvres-KimchiSundae's fork
+This is KimchiSundae's fork of MS server resourcepack
